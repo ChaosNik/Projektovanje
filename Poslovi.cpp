@@ -23,7 +23,7 @@ Izrada dokumenata
   4.Štampanje preliminarnih rezultata konkursa
   5.Štampanje zvaničnih rezultata konkursa
   
-Update
+Uplate
   1.
   2.
   
