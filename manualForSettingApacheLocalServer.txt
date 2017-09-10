@@ -1,0 +1,24 @@
+Da bi sve radilo potrebno je pokrenuti svoj lokalni web server i db server. Ovo se radi preko Apache-ovog
+web servera. Mozete ga pokrenuti u linuxu kao sto smo radili iz kriptografije, ili u Windowsu, na ipak jednostavniji nacin.
+Podesvanje za Windows:
+
+1. Skinuti program Xampp za win
+https://www.apachefriends.org/index.html
+
+2. instalirati i pokrenuti kako je to objasnjeno na sajtu:
+
+https://www.maketecheasier.com/setup-local-web-server-all-platforms/
+(vrlo jednostavno, 2-3 koraka. Ovo je za sve platforme na dnu ima za windows)
+
+3. Skinuti folder public_html sa git-a i sacuvati ga u folder C:\xampp\htdocs na fajl sistemu
+
+4. Ugasiti MySQL57 servis(moze preko onog notifiera) 
+
+5. Pokrenuti Xampp, startovati Apache i MySQL servis (kao sto je objasnjeno na linku iznad)
+
+6. u address baru browsera kucati localhost/public_html/zyro/1.php za pocetnu stranicu naseg sajta
+
+7. za prikaz i rad direktno sa bazom u address baru kucati localhost/phpmyadmin
+
+Trenutno nije osposobljena prijava na konkurs (postojis amo priakz stranice ali nije mgouce upisati podatke u bazu)
+dok je prikaz liste prijavljenih studenata zavrsen.
