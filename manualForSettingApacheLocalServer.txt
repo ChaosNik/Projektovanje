@@ -20,5 +20,7 @@ https://www.maketecheasier.com/setup-local-web-server-all-platforms/
 
 7. za prikaz i rad direktno sa bazom u address baru kucati localhost/phpmyadmin
 
-Trenutno nije osposobljena prijava na konkurs (postojis amo priakz stranice ali nije mgouce upisati podatke u bazu)
+8. da bi vam ovo sve radilo u spominjanom phpMyAdminu  potrebno je izvrsiti skriptu za bazu (kopirajte sadrzaj iz onog naseg fajla DDL iskazi i zalijepite u SQL tab phpMyAdmina, i izvriste (valjda ctrl + enter, kako li se inace i u workbenchu izvrsava)
+
+Prijava na konkurs je djelimicno osposobljena, moguce se prijaviti ali ne unose se podaci u sve tabele u koje bi trebalo + nisam jos zavsio parsiranje datuma)
 dok je prikaz liste prijavljenih studenata zavrsen.
